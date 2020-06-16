@@ -4,3 +4,4 @@ Python_Cisco_Networking
 2. NETDR_ASR903 - To interpret NFT Trace procedure on Cisco ASR903
 3. L2LOOP_7600  - Check overlapping VLAN tagging on Metro and Interlink interface
 4. HSRP_Active_7600 - To check HSRP Active-Active Status
+5. Integration_BSC - Create BSC integration script from XLS file 
