@@ -1,0 +1,1 @@
+START SecureCRT /script "C:\Users\User\Desktop\TELNET_WADUH.py"
